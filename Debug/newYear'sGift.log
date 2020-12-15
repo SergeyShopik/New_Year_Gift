@@ -1,0 +1,23 @@
+﻿  lollypop.h
+C:\Users\HP\source\repos\newYear'sGift\present.h(14,36): error C2061: синтаксическая ошибка: идентификатор "Sweets"
+C:\Users\HP\source\repos\newYear'sGift\present.h(24,46): error C2061: синтаксическая ошибка: идентификатор "Sweets"
+C:\Users\HP\source\repos\newYear'sGift\present.h(30,2): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,17): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,35): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(35,21): error C3481: s: передаваемая переменная в лямбда-выражении не найдена
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,8): error C2672: "std::for_each": не найдена соответствующая перегруженная функция
+C:\Users\HP\source\repos\newYear'sGift\present.h(45,5): error C2780: _Fn std::for_each(_InIt,_InIt,_Fn): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(237): message : см. объявление "std::for_each"
+C:\Users\HP\source\repos\newYear'sGift\lollypop.h(5,16): error C2011: Lollypop: переопределение типа "class"
+C:\Users\HP\source\repos\newYear'sGift\lollypop.h(5): message : см. объявление "Lollypop"
+  main.cpp
+C:\Users\HP\source\repos\newYear'sGift\present.h(14,36): error C2061: синтаксическая ошибка: идентификатор "Sweets"
+C:\Users\HP\source\repos\newYear'sGift\present.h(24,46): error C2061: синтаксическая ошибка: идентификатор "Sweets"
+C:\Users\HP\source\repos\newYear'sGift\present.h(30,2): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,17): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,35): error C2065: s: необъявленный идентификатор
+C:\Users\HP\source\repos\newYear'sGift\present.h(35,21): error C3481: s: передаваемая переменная в лямбда-выражении не найдена
+C:\Users\HP\source\repos\newYear'sGift\present.h(34,8): error C2672: "std::for_each": не найдена соответствующая перегруженная функция
+C:\Users\HP\source\repos\newYear'sGift\present.h(45,5): error C2780: _Fn std::for_each(_InIt,_InIt,_Fn): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\algorithm(237): message : см. объявление "std::for_each"
+  Создание кода...

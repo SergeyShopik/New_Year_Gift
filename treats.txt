@@ -1,0 +1,9 @@
+c alenka 100 3 0.2 0.7 milk 1
+m zefir 75 4 0.3 0 cherry
+l chupa 10 1 0.5 strawberry heart
+c luka 200 5 0.15 0.9 dark 0
+m zefirKA 55 2 0.4 1 vanilla
+l chupik 3 0.2 0.8 bese round
+c leha 75 1.5 0.25 0.55 nuts 0
+m bobr 80 3.5 0.2 0 apple
+l sosalka 2,5 1 0.5 strawberry star
